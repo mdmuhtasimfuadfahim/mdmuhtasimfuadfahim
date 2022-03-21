@@ -70,7 +70,6 @@
 
 [![Md. Muhtasim Fuad Fahim](https://github-readme-stats.vercel.app/api?username=mdmuhtasimfuadfahim&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl)]()
 
-
 ### 🏆 GitHub trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmuhtasimfuadfahim" alt="mdmuhtasimfuadfahim" /></a> </p>
 
