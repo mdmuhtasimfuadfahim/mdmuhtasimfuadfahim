@@ -6,12 +6,36 @@
 <!-- My social media's -->
 ### 🤝 Connect with me:
 <h3 align="left">
-    <a href="https://twitter.com/md_muhtasim_0x" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm 1/icons/twitter.svg" width="30"/></a>
-    <a href="https://www.linkedin.com/in/muhtasimfuadfahim/" target="blank"><img align="center"alt="muhtasim"height="25"src="https://cdsimple-icons@3.0.1/icons/linkedin.svg"width="30"/></a>
-    <a href="https://www.facebook.com/muhtasim.ornab/" target="blank"><img align="center"alt="muhtasim"height="25"src="https://cdn.jsdelivr.net/npm/siicons/facebook.svg"width="30"/></a>
-    <a href="https://www.instagram.com/mdmuhtasimfuadfahim/" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/n0.1/icons/instagram.svg"width="30"/></a>
-    <a href="https://discord.com/invite/3q8sZK8EBr" target="blank"><img align="center"alt="muhtasim"height="25"src="https://cdn.jsdelivr.net/npm/siicons/discord.svg"width="30"/></a>
-    <a href="https://t.me/muhtasimfuadfahim" target="blank"><img align="center"alt="muhtasim"height="25"src="https://cdn.jsdelivr.net/n0.1/icons/telegram.svg"width="30"/></a>
+    <a href="https://twitter.com/md_muhtasim_0x" target="blank"><img align="center"
+                                                                  alt="muhtasim"
+                                                                  height="25"
+                                                                  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
+                                                                  width="30"/></a>
+    <a href="https://www.linkedin.com/in/muhtasimfuadfahim/" target="blank"><img align="center"
+                                                                      alt="muhtasim"
+                                                                      height="25"
+                                                                      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+                                                                      width="30"/></a>
+    <a href="https://www.facebook.com/muhtasim.ornab/" target="blank"><img align="center"
+                                                             alt="muhtasim"
+                                                             height="25"
+                                                             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
+                                                             width="30"/></a>
+    <a href="https://www.instagram.com/mdmuhtasimfuadfahim/" target="blank"><img align="center"
+                                                                    alt="muhtasim"
+                                                                    height="25"
+                                                                    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+                                                                    width="30"/></a>
+    <a href="https://discord.com/invite/3q8sZK8EBr" target="blank"><img align="center"
+                                                              alt="muhtasim"
+                                                              height="25"
+                                                              src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg"
+                                                              width="30"/></a>
+    <a href="https://t.me/muhtasimfuadfahim" target="blank"><img align="center"
+                                                                    alt="muhtasim"
+                                                                    height="25"
+                                                                    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg"
+                                                                    width="30"/></a>
 </h3>
 <p>💬 If you have any questions/feedback, please do not hesitate to reach me out.</p>
 
