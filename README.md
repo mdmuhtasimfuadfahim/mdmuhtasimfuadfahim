@@ -54,8 +54,8 @@
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=61DAF)
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=61DAF)
 
-![](https://img.shields.io/badge/Databse-MongoDB-informational?style=flat&logo=MongoDB&color=61DAF)
-![](https://img.shields.io/badge/Databse-Sanity.IO-informational?style=flat&logo=sanity.io&color=61DAF)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=61DAF)
+![](https://img.shields.io/badge/Database-Sanity.IO-informational?style=flat&logo=sanity.io&color=61DAF)
 ![](https://img.shields.io/badge/Platform-Ethereum-informational?style=flat&logo=Ethereum&color=61DAF)
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=61DAF)
