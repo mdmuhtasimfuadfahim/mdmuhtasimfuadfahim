@@ -41,7 +41,7 @@
 
 <!-- My working experience -->
 ### 🔨 I'm currently working as a:
-<!-- - <strong>Software Developer</strong> at <a href="https://softcent.eu/">Softcent</a> -->
+- <strong>Blockchain Developer</strong> at <a href="https://softcent.eu/">Softcent</a>
 - <strong>Blockchain Trainer</strong> at <a href="http://www.cub.edu.bd/cub/index.php">Canadian University of Bangladesh</a>
 
 
