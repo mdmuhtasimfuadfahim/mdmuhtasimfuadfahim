@@ -1,7 +1,7 @@
 <h2 align="center">Hi,👋 I am Md. Muhtasim Fuad Fahim</br>I am Software Developer - Backend and Blockchain</h2>
 
 <!-- About me -->
-<h3>I am passionate about coding and I am commited towards my work and I always love to learn.</h3>
+<h3>I am passionate about coding and committed towards my work and love to learn.</h3>
 
 <!-- My social media's -->
 ### 🤝 Connect with me:
