@@ -58,9 +58,18 @@
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=61DAF)
 ![](https://img.shields.io/badge/Database-Sanity.IO-informational?style=flat&logo=sanity.io&color=61DAF)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=61DAF)
+![](https://img.shields.io/badge/Database-Moralis.io-informational?style=flat&logo=moralis.io&color=61DAF)
+
 ![](https://img.shields.io/badge/Platform-Ethereum-informational?style=flat&logo=Ethereum&color=61DAF)
 ![](https://img.shields.io/badge/Platform-Tezos-informational?style=flat&logo=Tezos&color=61DAF)
 
+![](https://img.shields.io/badge/Testnet-Rinkeby-informational?style=flat&logo=Rinkeby&color=61DAF)
+![](https://img.shields.io/badge/Testnet-Ropsten-informational?style=flat&logo=Ropsten&color=61DAF)
+![](https://img.shields.io/badge/Testnet-Binance-informational?style=flat&logo=Binance&color=61DAF)
+![](https://img.shields.io/badge/Testnet-Ghostnet-informational?style=flat&logo=Ghostnet&color=61DAF)
+![](https://img.shields.io/badge/Testnet-Jakartanet-informational?style=flat&logo=Jakartanet&color=61DAF)
+
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=61DAF)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=61DAF)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=61DAF)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=61DAF)
