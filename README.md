@@ -46,17 +46,20 @@
 
 
 ### 🤹 Technical skills: 
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Node.js&color=61DAF)
+![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=Node.js&color=61DAF)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&color=61DAF)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=61DAF)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=61DAF)
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&color=61DAF)
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=61DAF)
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=61DAF)
 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=61DAF)
 ![](https://img.shields.io/badge/Database-Sanity.IO-informational?style=flat&logo=sanity.io&color=61DAF)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=61DAF)
 ![](https://img.shields.io/badge/Platform-Ethereum-informational?style=flat&logo=Ethereum&color=61DAF)
+![](https://img.shields.io/badge/Platform-Tezos-informational?style=flat&logo=Tezos&color=61DAF)
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=61DAF)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=61DAF)
