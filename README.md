@@ -66,7 +66,10 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=61DAF)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=61DAF)
 ![](https://img.shields.io/badge/Tools-geth-informational?style=flat&logo=geth&color=61DAF)
-![](https://img.shields.io/badge/Tools-MetaMask-informational?style=flat&logo=MetaMask&color=61DAF)
+
+![](https://img.shields.io/badge/Wallet-MetaMask-informational?style=flat&logo=MetaMask&color=61DAF)
+![](https://img.shields.io/badge/Wallet-Binance-informational?style=flat&logo=Binance&color=61DAF)
+![](https://img.shields.io/badge/Wallet-Temple-informational?style=flat&logo=Temple&color=61DAF)
 
 ### 📈 GitHub stats:
 [![Md. Muhtasim Fuad Fahim](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&hide=stylus,java&langs_count=10&theme=nightowl)]()
