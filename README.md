@@ -40,9 +40,9 @@
 <p>💬 If you have any questions/feedback, please do not hesitate to reach me out.</p>
 
 <!-- My working experience -->
-### 🔨 I'm currently working as a:
+<!-- ### 🔨 I'm currently working as a:
 - <strong>Blockchain Developer</strong> at <a href="https://softcent.eu/">Softcent</a>
-- <strong>Blockchain Trainer</strong> at <a href="http://www.cub.edu.bd/cub/index.php">Canadian University of Bangladesh</a>
+- <strong>Blockchain Trainer</strong> at <a href="http://www.cub.edu.bd/cub/index.php">Canadian University of Bangladesh</a> -->
 
 
 ### 🤹 Technical skills: 
