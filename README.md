@@ -16,7 +16,7 @@
                                                                       height="25"
                                                                       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
                                                                       width="30"/></a>
-    <a href="https://www.facebook.com/muhtasim.ornab/" target="blank"><img align="center"
+    <a href="https://www.facebook.com/mdmuhtasimfuadfahim/" target="blank"><img align="center"
                                                              alt="muhtasim"
                                                              height="25"
                                                              src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
