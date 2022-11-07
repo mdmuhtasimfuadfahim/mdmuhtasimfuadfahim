@@ -59,6 +59,7 @@
 ![](https://img.shields.io/badge/Database-Sanity.IO-informational?style=flat&logo=sanity.io&color=61DAF)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=61DAF)
 ![](https://img.shields.io/badge/Database-Moralis.io-informational?style=flat&logo=moralis.io&color=61DAF)
+![](https://img.shields.io/badge/Database-Cache-Redis-informational?style=flat&logo=redis&color=61DAF)
 
 ![](https://img.shields.io/badge/Platform-Ethereum-informational?style=flat&logo=Ethereum&color=61DAF)
 ![](https://img.shields.io/badge/Platform-Tezos-informational?style=flat&logo=Tezos&color=61DAF)
