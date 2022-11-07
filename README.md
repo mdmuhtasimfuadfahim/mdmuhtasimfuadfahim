@@ -64,6 +64,9 @@
 ![](https://img.shields.io/badge/Platform-Ethereum-informational?style=flat&logo=Ethereum&color=61DAF)
 ![](https://img.shields.io/badge/Platform-Tezos-informational?style=flat&logo=Tezos&color=61DAF)
 
+![](https://img.shields.io/badge/MessageBroker-RabbitMQ-informational?style=flat&logo=rabbitmq&color=61DAF)
+![](https://img.shields.io/badge/MessageBroker-ApacheKafka-informational?style=flat&logo=kafka&color=61DAF)
+
 ![](https://img.shields.io/badge/Testnet-Rinkeby-informational?style=flat&logo=Rinkeby&color=61DAF)
 ![](https://img.shields.io/badge/Testnet-Ropsten-informational?style=flat&logo=Ropsten&color=61DAF)
 ![](https://img.shields.io/badge/Testnet-Binance-informational?style=flat&logo=Binance&color=61DAF)
