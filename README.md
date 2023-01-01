@@ -39,10 +39,12 @@
 </h3>
 <p>💬 If you have any questions/feedback, please do not hesitate to reach me out.</p>
 
-<!-- My working experience -->
-<!-- ### 🔨 I'm currently working as a:
+### 🔨 My working experience
+##### I'm currently working as a:
+- <strong>Backend Developer</strong> at <a href="https://xpeedstudio.com/">XpeedStudio</a>
+##### I'm former:
 - <strong>Blockchain Developer</strong> at <a href="https://softcent.eu/">Softcent</a>
-- <strong>Blockchain Trainer</strong> at <a href="http://www.cub.edu.bd/cub/index.php">Canadian University of Bangladesh</a> -->
+- <strong>Blockchain Trainer</strong> at <a href="http://www.cub.edu.bd/cub/index.php">Canadian University of Bangladesh</a>
 
 
 ### 🤹 Technical skills: 
