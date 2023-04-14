@@ -58,10 +58,10 @@
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=61DAF)
 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=61DAF)
-![](https://img.shields.io/badge/Database-Sanity.IO-informational?style=flat&logo=sanity.io&color=61DAF)
+![](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=DynamoDB&color=61DAF)
+![](https://img.shields.io/badge/DBCache-Redis-informational?style=flat&logo=redis&color=61DAF)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=61DAF)
 ![](https://img.shields.io/badge/Database-Moralis.io-informational?style=flat&logo=moralis.io&color=61DAF)
-![](https://img.shields.io/badge/DBCache-Redis-informational?style=flat&logo=redis&color=61DAF)
 
 ![](https://img.shields.io/badge/MessageBroker-RabbitMQ-informational?style=flat&logo=rabbitmq&color=61DAF)
 ![](https://img.shields.io/badge/MessageBroker-ApacheKafka-informational?style=flat&logo=apachekafka&color=61DAF)
@@ -80,10 +80,12 @@
 ![](https://img.shields.io/badge/Testnet-Ghostnet-informational?style=flat&logo=Ghostnet&color=61DAF)
 ![](https://img.shields.io/badge/Testnet-Jakartanet-informational?style=flat&logo=Jakartanet&color=61DAF)
 
-![](https://img.shields.io/badge/Platform-Docker-informational?style=flat&logo=docker&color=61DAF)
 ![](https://img.shields.io/badge/Environment-Redux-informational?style=flat&logo=redux&color=61DAF)
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=61DAF)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=61DAF)
+![](https://img.shields.io/badge/Tools-Apache-Benchmark-informational?style=flat&logo=apachebenchmark&color=61DAF)
+![](https://img.shields.io/badge/Tools-JMeter-informational?style=flat&logo=jmeter&color=61DAF)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=61DAF)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=61DAF)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=61DAF)
