@@ -95,7 +95,7 @@
 ![](https://img.shields.io/badge/Wallet-Temple-informational?style=flat&logo=Temple&color=61DAF)
 
 ### 📈 GitHub stats:
-<div position="relative">
+<div display="flex">
     <p align="left"> <a href="https://github.com/mdmuhtasimfuadfahim/github-profile-trophy"><img src="https://github-readme-stats-4e8nduusq-muhtasim-ornab.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&hide=stylus,java&langs_count=10&theme=dracula" alt="mdmuhtasimfuadfahim" /></a> </p>
     <p align="right"> <a href="https://github.com/mdmuhtasimfuadfahim/github-profile-trophy"><img src="https://github-readme-stats-4e8nduusq-muhtasim-ornab.vercel.app/api?username=mdmuhtasimfuadfahim&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" alt="mdmuhtasimfuadfahim" /></a> </p>
 </div>
