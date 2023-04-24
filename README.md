@@ -95,15 +95,15 @@
 ![](https://img.shields.io/badge/Wallet-Temple-informational?style=flat&logo=Temple&color=61DAF)
 
 ### 📈 GitHub stats:
-[![Md. Muhtasim Fuad Fahim](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&hide=stylus,java&langs_count=10&theme=nightowl)]()
+[![Md. Muhtasim Fuad Fahim](https://github-readme-stats-4e8nduusq-muhtasim-ornab.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&hide=stylus,java&langs_count=10&theme=dracula)]()
 
-[![Md. Muhtasim Fuad Fahim](https://github-readme-stats.vercel.app/api?username=mdmuhtasimfuadfahim&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl)]()
+[![Md. Muhtasim Fuad Fahim](https://github-readme-stats-4e8nduusq-muhtasim-ornab.vercel.app/api?username=mdmuhtasimfuadfahim&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)]()
 
 ### 🏆 GitHub trophies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmuhtasimfuadfahim" alt="mdmuhtasimfuadfahim" /></a> </p>
+<p align="left"> <a href="https://github.com/mdmuhtasimfuadfahim/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmuhtasimfuadfahim&theme=dracula&column=-1" alt="mdmuhtasimfuadfahim" /></a> </p>
 
 ### ✨ GitHub contribution:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmuhtasimfuadfahim&" alt="mdmuhtasimfuadfahim" /></p>
-<p><img src="https://activity-graph.herokuapp.com/graph?username=mdmuhtasimfuadfahim&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></p>
+<p><img align="center" src="https://github.com/mdmuhtasimfuadfahim/github-readme-activity-graph" alt="mdmuhtasimfuadfahim" /></p>
+<p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdmuhtasimfuadfahim&bg_color=231f21&color=25b6b4&line=b13eaa&point=e6d1d1&area=true&hide_border=true"/></p>
 
 <h3 align="center">Thank you so much for your time</h3>
