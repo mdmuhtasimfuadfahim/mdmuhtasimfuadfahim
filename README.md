@@ -103,7 +103,6 @@
 <p align="left"> <a href="https://github.com/mdmuhtasimfuadfahim/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmuhtasimfuadfahim&theme=dracula&column=-1" alt="mdmuhtasimfuadfahim" /></a> </p>
 
 ### ✨ GitHub contribution:
-<p><img align="center" src="https://github.com/mdmuhtasimfuadfahim/github-readme-activity-graph" alt="mdmuhtasimfuadfahim" /></p>
 <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdmuhtasimfuadfahim&bg_color=231f21&color=25b6b4&line=b13eaa&point=e6d1d1&area=true&hide_border=true"/></p>
 
 <h3 align="center">Thank you so much for your time</h3>
