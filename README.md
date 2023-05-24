@@ -108,6 +108,6 @@
   </a>
  
 ### ✨ GitHub contribution:
-<p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdmuhtasimfuadfahim&bg_color=231f21&color=25b6b4&line=b13eaa&point=e6d1d1&area=true&hide_border=true"/></p>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmuhtasimfuadfahim&bg_color=231f21&color=25b6b4&line=b13eaa&point=e6d1d1&area=true&hide_border=true"/></p>
 
 <h3 align="center">Thank you so much for your time</h3>
