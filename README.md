@@ -95,6 +95,15 @@
 ![](https://img.shields.io/badge/Wallet-Temple-informational?style=flat&logo=Temple&color=61DAF)
 
 ### 📈 GitHub stats:
+
+<div align="center">
+  <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
+    <img src="https://github-readme-stats-1z2wds3px-muhtasimfahim.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&hide=stylus,java&langs_count=10&theme=dracula" width="49%" alt="Authentic Pinoy Recipes"/>
+  </a>
+  <a href="https://github.com/godkingjay/Reddit-Clone" target="_blank">
+    <img src="https://github-readme-stats-1z2wds3px-muhtasimfahim.vercel.app/api?username=mdmuhtasimfuadfahim&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" width="49%" alt="Reddit Clone"/>
+  </a>
+</div>
 [![Md. Muhtasim Fuad Fahim](https://github-readme-stats-1z2wds3px-muhtasimfahim.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&hide=stylus,java&langs_count=10&theme=dracula)]()
 
 [![Md. Muhtasim Fuad Fahim](https://github-readme-stats-1z2wds3px-muhtasimfahim.vercel.app/api?username=mdmuhtasimfuadfahim&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)]()
