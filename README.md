@@ -95,9 +95,9 @@
 ![](https://img.shields.io/badge/Wallet-Temple-informational?style=flat&logo=Temple&color=61DAF)
 
 ### 📈 GitHub stats:
-[![Md. Muhtasim Fuad Fahim](https://github-readme-stats-4e8nduusq-muhtasim-ornab.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&hide=stylus,java&langs_count=10&theme=dracula)]()
+[![Md. Muhtasim Fuad Fahim](https://github-readme-stats-1z2wds3px-muhtasimfahim.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&hide=stylus,java&langs_count=10&theme=dracula)]()
 
-[![Md. Muhtasim Fuad Fahim](https://github-readme-stats-4e8nduusq-muhtasim-ornab.vercel.app/api?username=mdmuhtasimfuadfahim&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)]()
+[![Md. Muhtasim Fuad Fahim](https://github-readme-stats-1z2wds3px-muhtasimfahim.vercel.app/api?username=mdmuhtasimfuadfahim&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)]()
 
 ### 🏆 GitHub trophies:
 <p align="left"> <a href="https://github.com/mdmuhtasimfuadfahim/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmuhtasimfuadfahim&theme=dracula&column=-1" alt="mdmuhtasimfuadfahim" /></a> </p>
