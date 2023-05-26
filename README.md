@@ -105,6 +105,9 @@
 ### My Packages
 <a href="https://github.com/mdmuhtasimfuadfahim/kafka-pub-sub" target="_blank">
     <img src="https://github-readme-stats-1z2wds3px-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=kafka-pub-sub" alt="kafka-pub-sub"/>
+    
+<a href="https://github.com/mdmuhtasimfuadfahim/rmq-pub-sub" target="_blank">
+    <img src="https://github-readme-stats-1z2wds3px-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=rmq-pub-sub" alt="rmq-pub-sub"/>
   </a>
  
 ### ✨ GitHub contribution:
