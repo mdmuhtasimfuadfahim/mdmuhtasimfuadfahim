@@ -95,9 +95,9 @@
 ![](https://img.shields.io/badge/Wallet-Temple-informational?style=flat&logo=Temple&color=61DAF)
 
 ### 📈 GitHub stats:
-[![Md. Muhtasim Fuad Fahim](https://github-readme-stats-39jz53tk9-muhtasimfahim.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&hide=stylus,java&langs_count=10&theme=dracula)]()
+[![Md. Muhtasim Fuad Fahim](https://github-readme-stats-r89q7jom3-muhtasimfahim.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&hide=stylus,java&langs_count=10&theme=dracula)]()
 
-[![Md. Muhtasim Fuad Fahim](https://github-readme-stats-39jz53tk9-muhtasimfahim.vercel.app/api?username=mdmuhtasimfuadfahim&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)]()
+[![Md. Muhtasim Fuad Fahim](https://github-readme-stats-r89q7jom3-muhtasimfahim.vercel.app/api?username=mdmuhtasimfuadfahim&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)]()
 
 ### 🏆 GitHub trophies:
 <p align="left"> <a href="https://github.com/mdmuhtasimfuadfahim/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmuhtasimfuadfahim&theme=dracula&column=-1" alt="mdmuhtasimfuadfahim" /></a> </p>
@@ -105,10 +105,10 @@
 ### 📦 My Packages
 
  <a href="https://github.com/mdmuhtasimfuadfahim/kafka-pub-sub" target="_blank">
-    <img src="https://github-readme-stats-39jz53tk9-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=kafka-pub-sub" alt="kafka-pub-sub"/>  </a>
+    <img src="https://github-readme-stats-r89q7jom3-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=kafka-pub-sub" alt="kafka-pub-sub"/>  </a>
     
 <a href="https://github.com/mdmuhtasimfuadfahim/rmq-pub-sub" target="_blank">
-    <img src="https://github-readme-stats-39jz53tk9-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=rmq-pub-sub" alt="rmq-pub-sub"/>
+    <img src="https://github-readme-stats-r89q7jom3-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=rmq-pub-sub" alt="rmq-pub-sub"/>
   </a>
  
  
