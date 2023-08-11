@@ -105,10 +105,10 @@
 ### 📦 My Packages
 
  <a href="https://github.com/mdmuhtasimfuadfahim/kafka-pub-sub" target="_blank">
-    <img src="https://github-readme-stats-r89q7jom3-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=kafka-pub-sub" alt="kafka-pub-sub"/>  </a>
+    <img src="https://github-readme-stats-git-master-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=kafka-pub-sub" alt="kafka-pub-sub"/>  </a>
     
 <a href="https://github.com/mdmuhtasimfuadfahim/rmq-pub-sub" target="_blank">
-    <img src="https://github-readme-stats-r89q7jom3-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=rmq-pub-sub" alt="rmq-pub-sub"/>
+    <img src="https://github-readme-stats-git-master-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=rmq-pub-sub" alt="rmq-pub-sub"/>
   </a>
  
  
