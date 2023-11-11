@@ -41,7 +41,7 @@
 
 ### 🔨 My working experience
 ##### I'm currently working as a:
-- <strong>Backend Developer</strong> at <a href="https://xpeedstudio.com/">XpeedStudio</a> (<a href="https://github.com/xs-fahim">Work GitHub</a>), <a href="https://getgenie.ai/">GetGenie</a>
+- <strong>Software Engineer</strong> at <a href="https://xpeedstudio.com/">XpeedStudio</a> (<a href="https://github.com/xs-fahim">Work GitHub</a>), <a href="https://getgenie.ai/">GetGenie</a>
 ##### I have worked as a:
 - <strong>Blockchain Developer</strong> at <a href="https://softcent.eu/">Softcent</a>, <a href="https://www.revorium.com/">Revorium</a>
 - <strong>Blockchain Trainer</strong> at <a href="http://www.cub.edu.bd/cub/index.php">Canadian University of Bangladesh</a>
