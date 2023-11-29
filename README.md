@@ -1,4 +1,4 @@
-<h2 align="center">Hi,👋 I am Md. Muhtasim Fuad Fahim</br>I am Software Engineer - Backend and Blockchain</h2>
+<h2 align="center">Hi,👋 I am Md. Muhtasim Fuad Fahim</br>I am a Software Engineer - Backend and Blockchain</h2>
 
 <!-- About me -->
 <h3>I am passionate about coding and committed towards my work and love to learn.</h3>
