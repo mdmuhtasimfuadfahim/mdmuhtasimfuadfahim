@@ -1,6 +1,6 @@
 <h2 align="center">Hi,👋 I am Md. Muhtasim Fuad Fahim</br>I am a Software Engineer - Backend and Blockchain
 </h2>
-<a href="https://bit.ly/mmffo" align="center">「 Google Me 」</a>
+<p align="center"><a href="https://bit.ly/mmffo" target="blank">「 Google Me 」</a></p>
 
 <!-- About me -->
 <h3>I am passionate about coding and committed towards my work and love to learn.</h3>
