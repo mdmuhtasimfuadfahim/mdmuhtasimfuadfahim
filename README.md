@@ -1,12 +1,14 @@
 <h2 align="center">Hi,👋 I am Md. Muhtasim Fuad Fahim</br>I am a Software Engineer - Backend and Blockchain</h2>
 
+<a href="https://bit.ly/mmffo" target="blank">「 Google Me 」</a>
+
 <!-- About me -->
 <h3>I am passionate about coding and committed towards my work and love to learn.</h3>
 
 <!-- My social media's -->
 ### 🤝 Connect with me:
 <h3 align="left">
-    <a href="https://twitter.com/md_muhtasim_0x" target="blank"><img align="center"
+    <a href="https://twitter.com/mdmuhtasimfahim" target="blank"><img align="center"
                                                                   alt="muhtasim"
                                                                   height="25"
                                                                   src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
