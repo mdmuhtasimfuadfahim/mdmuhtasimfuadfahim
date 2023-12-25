@@ -1,12 +1,16 @@
-<h2 align="center">Hi,👋 I am Md. Muhtasim Fuad Fahim</br>I am a Software Engineer - Backend and Blockchain</h2>
+<h2 align="center">Hi,👋 I am Md. Muhtasim Fuad Fahim</br>I am a Software Engineer - Backend and Blockchain
+</h2>
+<p align="center"><a href="https://bit.ly/mmffo" target="blank">「 Google Me 」</a></p>
 
 <!-- About me -->
 <h3>I am passionate about coding and committed towards my work and love to learn.</h3>
 
 <!-- My social media's -->
+
 ### 🤝 Connect with me:
+
 <h3 align="left">
-    <a href="https://twitter.com/md_muhtasim_0x" target="blank"><img align="center"
+    <a href="https://twitter.com/mdmuhtasimfahim" target="blank"><img align="center"
                                                                   alt="muhtasim"
                                                                   height="25"
                                                                   src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
@@ -40,14 +44,18 @@
 <p>💬 If you have any questions/feedback, please do not hesitate to reach me out.</p>
 
 ### 🔨 My working experience
+
 ##### I'm currently working as a:
+
 - <strong>Software Engineer</strong> at <a href="https://xpeedstudio.com/">XpeedStudio</a> (<a href="https://github.com/xs-fahim">Work GitHub</a>), <a href="https://getgenie.ai/">GetGenie</a>
+
 ##### I have worked as a:
+
 - <strong>Blockchain Developer</strong> at <a href="https://softcent.eu/">Softcent</a>, <a href="https://www.revorium.com/">Revorium</a>
 - <strong>Blockchain Trainer</strong> at <a href="http://www.cub.edu.bd/cub/index.php">Canadian University of Bangladesh</a>
 
+### 🤹 Technical skills:
 
-### 🤹 Technical skills: 
 ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=Node.js&color=61DAF)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&color=61DAF)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=61DAF)
@@ -72,7 +80,6 @@
 ![](https://img.shields.io/badge/Environment-Hardhat-informational?style=flat&logo=hardhat&color=61DAF)
 ![](https://img.shields.io/badge/Tools-Geth-informational?style=flat&logo=geth&color=61DAF)
 
-
 ![](https://img.shields.io/badge/Testnet-Rinkeby-informational?style=flat&logo=Rinkeby&color=61DAF)
 ![](https://img.shields.io/badge/Testnet-Ropsten-informational?style=flat&logo=Ropsten&color=61DAF)
 ![](https://img.shields.io/badge/Testnet-Binance-informational?style=flat&logo=Binance&color=61DAF)
@@ -95,11 +102,13 @@
 ![](https://img.shields.io/badge/Wallet-Temple-informational?style=flat&logo=Temple&color=61DAF)
 
 ### 📈 GitHub stats:
+
 [![Md. Muhtasim Fuad Fahim](https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&hide=stylus,java&langs_count=10&theme=dracula)]()
 
 [![Md. Muhtasim Fuad Fahim](https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api?username=mdmuhtasimfuadfahim&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)]()
 
 ### 🏆 GitHub trophies:
+
 <p align="left"> <a href="https://github.com/mdmuhtasimfuadfahim/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmuhtasimfuadfahim&theme=dracula&column=-1" alt="mdmuhtasimfuadfahim" /></a> </p>
 
 ### 📦 My Packages
