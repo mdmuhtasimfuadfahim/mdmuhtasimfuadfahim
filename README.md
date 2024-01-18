@@ -1,5 +1,6 @@
 <h2 align="center">Hi,👋 I am Md. Muhtasim Fuad Fahim</br>I am a Software Engineer - Backend and Blockchain
 </h2>
+
 <p align="center"><a href="https://bit.ly/mmffo" target="blank">「 Google Me 」</a></p>
 
 <!-- About me -->
@@ -10,36 +11,14 @@
 ### 🤝 Connect with me:
 
 <h3 align="left">
-    <a href="https://twitter.com/mdmuhtasimfahim" target="blank"><img align="center"
-                                                                  alt="muhtasim"
-                                                                  height="25"
-                                                                  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
-                                                                  width="30"/></a>
-    <a href="https://www.linkedin.com/in/mdmuhtasimfuadfahim/" target="blank"><img align="center"
-                                                                      alt="muhtasim"
-                                                                      height="25"
-                                                                      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-                                                                      width="30"/></a>
-    <a href="https://www.facebook.com/mdmuhtasimfuadfahim/" target="blank"><img align="center"
-                                                             alt="muhtasim"
-                                                             height="25"
-                                                             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
-                                                             width="30"/></a>
-    <a href="https://www.instagram.com/mdmuhtasimfuadfahim/" target="blank"><img align="center"
-                                                                    alt="muhtasim"
-                                                                    height="25"
-                                                                    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
-                                                                    width="30"/></a>
-    <a href="https://discord.com/invite/3q8sZK8EBr" target="blank"><img align="center"
-                                                              alt="muhtasim"
-                                                              height="25"
-                                                              src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg"
-                                                              width="30"/></a>
+    <a href="https://twitter.com/mdmuhtasimfahim" target="blank"><img align="center" alt="muhtasim" height="25" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30"/></a>
+    <a href="https://www.linkedin.com/in/mdmuhtasimfuadfahim/" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30"/></a>
+    <a href="https://www.facebook.com/mdmuhtasimfuadfahim/" target="blank"><img align="center" alt="muhtasim" height="25"src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30"/></a>
+    <a href="https://www.instagram.com/mdmuhtasimfuadfahim/" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="30"/></a>
+    <a href="https://discord.com/invite/3q8sZK8EBr" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" width="30"/></a>
     <a href="https://t.me/muhtasimfuadfahim" target="blank"><img align="center"
-                                                                    alt="muhtasim"
-                                                                    height="25"
-                                                                    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg"
-                                                                    width="30"/></a>
+    alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" width="30"/></a>
+    <a href="https://stackoverflow.com/users/15415861/md-muhtasim-fuad-fahim" target="blank"><img align="center" alt="muhtasim" height="25" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="30"/></a>
 </h3>
 <p>💬 If you have any questions/feedback, please do not hesitate to reach me out.</p>
 
