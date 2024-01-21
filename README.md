@@ -18,7 +18,7 @@
     <a href="https://discord.com/invite/3q8sZK8EBr" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" width="30"/></a>
     <a href="https://t.me/muhtasimfuadfahim" target="blank"><img align="center"
     alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" width="30"/></a>
-    <a href="https://stackoverflow.com/users/15415861/md-muhtasim-fuad-fahim" target="blank"><img align="center" alt="muhtasim" height="25" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="30"/></a>
+    <a href="https://stackoverflow.com/users/15415861/md-muhtasim-fuad-fahim" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" width="30"/></a>
 </h3>
 <p>💬 If you have any questions/feedback, please do not hesitate to reach me out.</p>
 
