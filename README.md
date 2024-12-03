@@ -1,5 +1,4 @@
-<h2 align="center">Hi,👋 I am Md. Muhtasim Fuad Fahim</br>I am a Software Engineer - Backend and Blockchain
-</h2>
+<h2 align="center">Hi,👋 I am Md. Muhtasim Fuad Fahim</br>I am a Software Engineer - Backend and Blockchain</h2>
 
 <p align="center"><a href="https://bit.ly/mmffo" target="blank">「 Google Me 」</a></p>
 
@@ -16,8 +15,7 @@
     <a href="https://www.facebook.com/mdmuhtasimfuadfahim/" target="blank"><img align="center" alt="muhtasim" height="25"src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30"/></a>
     <a href="https://www.instagram.com/mdmuhtasimfuadfahim/" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="30"/></a>
     <a href="https://discord.com/invite/3q8sZK8EBr" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" width="30"/></a>
-    <a href="https://t.me/muhtasimfuadfahim" target="blank"><img align="center"
-    alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" width="30"/></a>
+    <a href="https://t.me/muhtasimfuadfahim" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" width="30"/></a>
     <a href="https://stackoverflow.com/users/15415861/md-muhtasim-fuad-fahim" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" width="30"/></a>
 </h3>
 <p>💬 If you have any questions/feedback, please do not hesitate to reach me out.</p>
@@ -26,7 +24,7 @@
 
 ##### I'm currently working as a:
 
-- <strong>Software Engineer</strong> at <a href="https://xpeedstudio.com/">XpeedStudio</a> (<a href="https://github.com/xs-fahim">Work GitHub</a>), <a href="https://getgenie.ai/">GetGenie</a>
+- <strong>Software Engineer</strong> at <a href="https://xpeedstudio.com/">XpeedStudio</a> (Projects: <a href="https://getgenie.ai/">GetGenie</a>, <a href="https://yosuite.com/">YoSuite</a>)
 
 ##### I have worked as a:
 
@@ -98,7 +96,6 @@
 <a href="https://github.com/mdmuhtasimfuadfahim/rmq-pub-sub" target="_blank">
     <img src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=rmq-pub-sub" alt="rmq-pub-sub"/>
   </a>
- 
  
 ### ✨ GitHub contribution:
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmuhtasimfuadfahim&bg_color=231f21&color=25b6b4&line=b13eaa&point=e6d1d1&area=true&hide_border=true"/></p>
