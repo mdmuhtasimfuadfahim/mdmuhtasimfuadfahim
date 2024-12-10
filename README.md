@@ -1,103 +1,116 @@
-<h2 align="center">Hi,👋 I am Md. Muhtasim Fuad Fahim</br>I am a Software Engineer - Backend and Blockchain</h2>
+<h1 align="center">Hi, 👋 I’m Md. Muhtasim Fuad Fahim</h1>
+<h3 align="center">Software Engineer | Backend & Blockchain Specialist</h3>
 
-<p align="center"><a href="https://bit.ly/mmffo" target="blank">「 Google Me 」</a></p>
+<p align="center">
+  <a href="https://bit.ly/mmffo" target="_blank"><strong>🔍 Google Me</strong></a>
+</p>
 
-<!-- About me -->
-<h3>I am passionate about coding and committed towards my work and love to learn.</h3>
+---
 
-<!-- My social media's -->
+### 👨‍💻 About Me
 
-### 🤝 Connect with me:
+I am a **Software Engineer** driven by a passion for backend development and blockchain technology. My expertise lies in solving intricate technical challenges, optimizing codebases, and crafting scalable, efficient solutions.
 
-<h3 align="left">
-    <a href="https://twitter.com/mdmuhtasimfahim" target="blank"><img align="center" alt="muhtasim" height="25" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30"/></a>
-    <a href="https://www.linkedin.com/in/mdmuhtasimfuadfahim/" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30"/></a>
-    <a href="https://www.facebook.com/mdmuhtasimfuadfahim/" target="blank"><img align="center" alt="muhtasim" height="25"src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30"/></a>
-    <a href="https://www.instagram.com/mdmuhtasimfuadfahim/" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="30"/></a>
-    <a href="https://discord.com/invite/3q8sZK8EBr" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" width="30"/></a>
-    <a href="https://t.me/muhtasimfuadfahim" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" width="30"/></a>
-    <a href="https://stackoverflow.com/users/15415861/md-muhtasim-fuad-fahim" target="blank"><img align="center" alt="muhtasim" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" width="30"/></a>
-</h3>
-<p>💬 If you have any questions/feedback, please do not hesitate to reach me out.</p>
+- 🌱 **Currently Exploring:** Google Search Console and Google Analytics for enhanced web performance insights.
+- 🧠 **Learning:** Advanced data structures, data mining techniques, and API response time optimization.
+- ✍️ **Hobbies:** Staying active at the gym, traveling to explore new places, and immersing myself in diverse cultures.
 
-### 🔨 My working experience
+---
 
-##### I'm currently working as a:
+### 🤝 Connect With Me
 
-- <strong>Software Engineer</strong> at <a href="https://xpeedstudio.com/">XpeedStudio</a> (Projects: <a href="https://getgenie.ai/">GetGenie</a>, <a href="https://yosuite.com/">YoSuite</a>)
+<p align="center">
+  <a href="https://twitter.com/mdmuhtasimfahim" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/mdmuhtasimfuadfahim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/mdmuhtasimfuadfahim/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/mdmuhtasimfuadfahim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.com/invite/3q8sZK8EBr" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://stackoverflow.com/users/15415861/md-muhtasim-fuad-fahim" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+</p>
 
-##### I have worked as a:
+---
 
-- <strong>Blockchain Developer</strong> at <a href="https://softcent.eu/">Softcent</a>, <a href="https://www.revorium.com/">Revorium</a>
-- <strong>Blockchain Trainer</strong> at <a href="http://www.cub.edu.bd/cub/index.php">Canadian University of Bangladesh</a>
+### 🔨 Work Experience
 
-### 🤹 Technical skills:
+#### Current Role:
 
-![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=Node.js&color=61DAF)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&color=61DAF)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=61DAF)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=61DAF)
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&color=61DAF)
+- **Software Engineer** at [XpeedStudio](https://xpeedstudio.com/)
+  - Projects: [GetGenie](https://getgenie.ai/), [YoSuite](https://yosuite.com/)
 
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=61DAF)
-![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=61DAF)
+#### Previous Roles:
 
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=61DAF)
-![](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=DynamoDB&color=61DAF)
-![](https://img.shields.io/badge/DBCache-Redis-informational?style=flat&logo=redis&color=61DAF)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=61DAF)
-![](https://img.shields.io/badge/Database-Moralis.io-informational?style=flat&logo=moralis.io&color=61DAF)
+- **Blockchain Developer** at [Softcent](https://softcent.eu/), [Revorium](https://www.revorium.com/)
+- **Blockchain Trainer** at [Canadian University of Bangladesh](http://www.cub.edu.bd/cub/index.php)
 
-![](https://img.shields.io/badge/MessageBroker-RabbitMQ-informational?style=flat&logo=rabbitmq&color=61DAF)
-![](https://img.shields.io/badge/MessageBroker-ApacheKafka-informational?style=flat&logo=apachekafka&color=61DAF)
+---
 
-![](https://img.shields.io/badge/Platform-Ethereum-informational?style=flat&logo=Ethereum&color=61DAF)
-![](https://img.shields.io/badge/Platform-Tezos-informational?style=flat&logo=Tezos&color=61DAF)
-![](https://img.shields.io/badge/Environment-Truffle-informational?style=flat&logo=truffle&color=61DAF)
-![](https://img.shields.io/badge/Environment-Hardhat-informational?style=flat&logo=hardhat&color=61DAF)
-![](https://img.shields.io/badge/Tools-Geth-informational?style=flat&logo=geth&color=61DAF)
+### 🛠️ Technical Skills
 
-![](https://img.shields.io/badge/Testnet-Rinkeby-informational?style=flat&logo=Rinkeby&color=61DAF)
-![](https://img.shields.io/badge/Testnet-Ropsten-informational?style=flat&logo=Ropsten&color=61DAF)
-![](https://img.shields.io/badge/Testnet-Binance-informational?style=flat&logo=Binance&color=61DAF)
-![](https://img.shields.io/badge/Testnet-Polygon-informational?style=flat&logo=Polygon&color=61DAF)
-![](https://img.shields.io/badge/Testnet-Ghostnet-informational?style=flat&logo=Ghostnet&color=61DAF)
-![](https://img.shields.io/badge/Testnet-Jakartanet-informational?style=flat&logo=Jakartanet&color=61DAF)
+#### **Languages:**
 
-![](https://img.shields.io/badge/Environment-Redux-informational?style=flat&logo=redux&color=61DAF)
+![Node.js](https://img.shields.io/badge/Node.JS-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=61DAF)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=61DAF)
-![](https://img.shields.io/badge/Tools-Apache-Benchmark-informational?style=flat&logo=apachebenchmark&color=61DAF)
-![](https://img.shields.io/badge/Tools-JMeter-informational?style=flat&logo=jmeter&color=61DAF)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=61DAF)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=61DAF)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=61DAF)
+#### **Frontend:**
 
-![](https://img.shields.io/badge/Wallet-MetaMask-informational?style=flat&logo=MetaMask&color=61DAF)
-![](https://img.shields.io/badge/Wallet-Binance-informational?style=flat&logo=Binance&color=61DAF)
-![](https://img.shields.io/badge/Wallet-Temple-informational?style=flat&logo=Temple&color=61DAF)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📈 GitHub stats:
+#### **Backend & Platforms:**
 
-[![Md. Muhtasim Fuad Fahim](https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&hide=stylus,java&langs_count=10&theme=dracula)]()
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Hyper Express](https://img.shields.io/badge/Hyper_Express-%2343853D.svg?style=for-the-badge&logo=hyper-express&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-[![Md. Muhtasim Fuad Fahim](https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api?username=mdmuhtasimfuadfahim&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)]()
+#### **Databases:**
 
-### 🏆 GitHub trophies:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-%23009639.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-<p align="left"> <a href="https://github.com/mdmuhtasimfuadfahim/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmuhtasimfuadfahim&theme=dracula&column=-1" alt="mdmuhtasimfuadfahim" /></a> </p>
+#### **Testing & Tools:**
 
-### 📦 My Packages
+![JMeter](https://img.shields.io/badge/JMeter-%23D24939.svg?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
- <a href="https://github.com/mdmuhtasimfuadfahim/kafka-pub-sub" target="_blank">
-    <img src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=kafka-pub-sub" alt="kafka-pub-sub"/>  </a>
-    
-<a href="https://github.com/mdmuhtasimfuadfahim/rmq-pub-sub" target="_blank">
-    <img src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=rmq-pub-sub" alt="rmq-pub-sub"/>
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmuhtasimfuadfahim&theme=onestar&row=1&column=11&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Contributions
+
+![Md. Muhtasim Fuad Fahim's GitHub stats](https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api?username=mdmuhtasimfuadfahim&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mdmuhtasimfuadfahim&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 📦 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/mdmuhtasimfuadfahim/kafka-pub-sub" target="_blank">
+    <img src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=kafka-pub-sub" alt="Kafka Pub Sub" />
   </a>
- 
-### ✨ GitHub contribution:
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmuhtasimfuadfahim&bg_color=231f21&color=25b6b4&line=b13eaa&point=e6d1d1&area=true&hide_border=true"/></p>
+  <a href="https://github.com/mdmuhtasimfuadfahim/rmq-pub-sub" target="_blank">
+    <img src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=rmq-pub-sub" alt="RMQ Pub Sub" />
+  </a>
+</p>
 
-<h3 align="center">Thank you so much for your time</h3>
+---
+
+### 🌱 Let's Collaborate!
+
+- Interested in blockchain, backend systems, or distributed architectures?  
+  💬 Feel free to reach out to me at [muhtasimfuadfahim@proton.me](mailto:muhtasimfuadfahim@proton.me).
+
+<h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
