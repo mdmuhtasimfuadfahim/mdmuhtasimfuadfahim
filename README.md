@@ -114,3 +114,9 @@ I am a **Software Engineer** driven by a passion for backend development and blo
   💬 Feel free to reach out to me at [muhtasimfuadfahim@proton.me](mailto:muhtasimfuadfahim@proton.me).
 
 <h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
+
+---
+
+### 📜 License
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
