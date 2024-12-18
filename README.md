@@ -26,6 +26,8 @@ I am a **Software Engineer** driven by a passion for backend development and blo
   <a href="https://www.instagram.com/mdmuhtasimfuadfahim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://discord.com/invite/3q8sZK8EBr" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://stackoverflow.com/users/15415861/md-muhtasim-fuad-fahim" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://dev.to/mdmuhtasimfuadfahim" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to" /></a>
+  <a href="https://medium.com/@mdmuhtasimfuadfahim" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 ---
@@ -88,10 +90,11 @@ I am a **Software Engineer** driven by a passion for backend development and blo
 
 ### 📊 GitHub Stats & Contributions
 
-![Md. Muhtasim Fuad Fahim's GitHub stats](https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api?username=mdmuhtasimfuadfahim&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mdmuhtasimfuadfahim&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api?username=mdmuhtasimfuadfahim&show_icons=true&theme=radical" alt="Md. Muhtasim Fuad Fahim's GitHub stats" />
+  <img src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=mdmuhtasimfuadfahim&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+</p>
 
 ---
 
