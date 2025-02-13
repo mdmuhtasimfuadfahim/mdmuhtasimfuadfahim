@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Backend & Blockchain Specialist</h3>
 
 <p align="center">
-  <a href="https://bit.ly/mmffo" target="_blank"><strong>🔍 Google Me</strong></a>
+  <a href="https://bit.ly/mffo" target="_blank"><strong>🔍 Google Me</strong></a>
 </p>
 
 ---
