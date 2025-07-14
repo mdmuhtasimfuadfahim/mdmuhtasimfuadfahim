@@ -1,5 +1,5 @@
 <h1 align="center">Hi, 👋 I’m Md. Muhtasim Fuad Fahim</h1>
-<h3 align="center">Software Engineer | Backend & Blockchain Specialist</h3>
+<h3 align="center">Software Development Engineer II | Backend & Blockchain Specialist</h3>
 
 <p align="center">
   <a href="https://bit.ly/mffo" target="_blank"><strong>🔍 Google Me</strong></a>
@@ -36,11 +36,12 @@ I am a **Software Engineer** driven by a passion for backend development and blo
 
 #### Current Role:
 
-- **Software Engineer** at [XpeedStudio](https://xpeedstudio.com/)
+- **Software Development Engineer II** at [Roxnor](https://roxnor.com/)
   - Projects: [GetGenie](https://getgenie.ai/), [YoSuite](https://yosuite.com/)
 
 #### Previous Roles:
 
+- **Software Engineer** at [XpeedStudio](https://xpeedstudio.com/)
 - **Blockchain Developer** at [Softcent](https://softcent.eu/), [Revorium](https://www.revorium.com/)
 - **Blockchain Trainer** at [Canadian University of Bangladesh](http://www.cub.edu.bd/cub/index.php)
 
