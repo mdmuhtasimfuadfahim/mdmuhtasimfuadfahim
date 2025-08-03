@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer** driven by a passion for backend development and blockchain technology. My expertise lies in solving intricate technical challenges, optimizing codebases, and crafting scalable, efficient solutions.
+I am a **Software Development Engineer II** driven by a passion for backend development and blockchain technology. My expertise lies in solving intricate technical challenges, optimizing codebases, and crafting scalable, efficient solutions.
 
 - 🌱 **Currently Exploring:** Google Search Console and Google Analytics for enhanced web performance insights.
 - 🧠 **Learning:** Advanced data structures, data mining techniques, and API response time optimization.
