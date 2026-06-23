@@ -1,7 +1,9 @@
 <!-- PROFILE README · Md. Muhtasim Fuad Fahim -->
 
 <h1 align="center">Md. Muhtasim Fuad Fahim</h1>
-<h3 align="center">Software Development Engineer II · Backend · Cloud Infra · AI Platforms</h3>
+<h3 align="center">Software Development Engineer II · Backend · CI/CD · SaaS & AI Platforms</h3>
+
+<p align="center"><i>💼 Open to Software Engineer positions</i></p>
 
 <p align="center">
   <a href="https://mdmuhtasimfuadfahim.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=githubpages&logoColor=58a6ff" alt="Portfolio" /></a>
@@ -16,11 +18,12 @@
 
 ### 👨‍💻 About
 
-Software Development Engineer with **3+ years** building and owning production-grade SaaS products. I specialize in **backend engineering, cloud infrastructure, and CI/CD pipelines**, with hands-on frontend ownership when needed. I've shipped complete SaaS billing systems (Stripe, SSLCommerz), multi-tenant cloud infra, and AI-powered platforms — and I lean on **Claude Code & GitHub Copilot** to amplify output and code quality.
+Software Development Engineer with **3+ years** building and owning production-grade SaaS products. I specialize in **backend engineering and CI/CD pipelines**, with hands-on frontend ownership when needed. I've shipped complete SaaS billing systems (Stripe, SSLCommerz), self-designed **staging + production deployment architectures**, and AI-powered platforms — and I lean on **Claude Code & GitHub Copilot** to amplify output and code quality.
 
+- 💼 **Open to:** Software Engineer positions
 - 🔭 **Now:** Leading backend & frontend for the **GetGenie AI** platform at [Roxnor](https://roxnor.com/)
-- 🌱 **Building:** **YoPM** — a universal SaaS admin & multi-gateway billing platform
-- 💬 **Ask me about:** Node.js architecture, SaaS billing, zero-downtime deploys, blockchain
+- 🏗️ **Designed:** Full staging + live architecture for **YoSuite** & **YoPM** — Caddy, Dozzle over SSH, Docker, GitHub Actions, tag-based auto-release
+- 💬 **Ask me about:** Node.js architecture, SaaS billing, CI/CD & tag-based releases, blockchain
 - 📫 **Reach me:** mdmuhtasim.fahim@gmail.com
 
 ---
@@ -47,7 +50,9 @@ Software Development Engineer with **3+ years** building and owning production-g
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![Dozzle](https://img.shields.io/badge/Dozzle-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OVH](https://img.shields.io/badge/OVHcloud-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -67,9 +72,9 @@ Software Development Engineer with **3+ years** building and owning production-g
 
 ### 🚀 Selected Projects
 
-- **[GetGenie AI](https://getgenie.ai/)** — Sole engineer owning backend, frontend, deployment & infra for an AI content + SEO platform. `Node.js · MongoDB · OpenAI · LangChain · Docker`
-- **[YoSuite](https://yosuite.com/)** — End-to-end CI/CD (GitHub Actions → Shell automation → Docker, zero-downtime) + full Stripe billing with prorated subscriptions & wildcard DNS. `Node.js · TypeScript · React · Stripe`
-- **YoPM** — Universal SaaS admin panel; any product plugs in via API for auth + multi-gateway billing (Stripe + SSLCommerz). `Node.js · Next.js · PostgreSQL` *(ongoing)*
+- **[YoSuite](https://yosuite.com/)** — Designed the **full staging + live deployment architecture**: Caddy (auto-HTTPS reverse proxy), Dozzle container-log monitoring over SSH, SSH-based env management, Docker, and GitHub Actions that **auto-release on version tags** with zero-downtime. Plus a complete Stripe billing system — plan tiers, prorated subscriptions, add-ons & webhook lifecycle. `Node.js · TypeScript · React · Stripe · Caddy · Docker`
+- **YoPM** — Universal SaaS admin & billing platform; any product plugs in via API for auth + multi-gateway billing (Stripe + SSLCommerz). Runs on the **same self-designed staging + live architecture** (Caddy · Dozzle · Docker · GitHub Actions · tag-based auto-release). `Node.js · Next.js · PostgreSQL` *(ongoing)*
+- **[GetGenie AI](https://getgenie.ai/)** — Sole engineer owning backend, frontend & deployment for an AI content + SEO platform. `Node.js · MongoDB · OpenAI · LangChain · Docker`
 - **SwipeXYZ** — Social + NFT marketplace with ERC20/ERC721 smart contracts on BSC & Polygon. `Solidity · Node.js · PostgreSQL`
 
 ---
