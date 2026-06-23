@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Md. Muhtasim Fuad Fahim — Software Development Engineer II</title>
+<meta name="description" content="Md. Muhtasim Fuad Fahim — Software Development Engineer II specializing in backend engineering, cloud infrastructure, CI/CD, SaaS billing, and AI platforms." />
+<meta name="author" content="Md. Muhtasim Fuad Fahim" />
+<!-- Open Graph -->
+<meta property="og:title" content="Md. Muhtasim Fuad Fahim — Software Development Engineer II" />
+<meta property="og:description" content="Backend · Cloud Infra · CI/CD · SaaS Billing · AI Platforms · Blockchain" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://mdmuhtasimfuadfahim.github.io" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+<style>
+:root{
+  --bg:#0a0b14; --bg-soft:#11131f; --card:#151827; --card-hover:#1b1f33;
+  --border:#232842; --text:#e6e9f2; --muted:#9aa3bf; --faint:#6b7392;
+  --accent:#58a6ff; --accent2:#9d7bff; --accent3:#3fd0c9;
+  --grad:linear-gradient(120deg,#58a6ff 0%,#9d7bff 55%,#3fd0c9 100%);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  font-family:'Inter',system-ui,sans-serif;background:var(--bg);color:var(--text);
+  line-height:1.6;overflow-x:hidden;
+}
+body::before{
+  content:"";position:fixed;inset:0;z-index:-1;
+  background:
+    radial-gradient(600px circle at 15% -5%,rgba(88,166,255,.16),transparent 45%),
+    radial-gradient(700px circle at 90% 10%,rgba(157,123,255,.13),transparent 45%),
+    radial-gradient(600px circle at 50% 110%,rgba(63,208,201,.10),transparent 45%);
+}
+.mono{font-family:'JetBrains Mono',monospace}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1060px;margin:0 auto;padding:0 24px}
+.accent{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+
+/* NAV */
+nav{position:sticky;top:0;z-index:50;backdrop-filter:blur(12px);
+  background:rgba(10,11,20,.72);border-bottom:1px solid var(--border)}
+nav .wrap{display:flex;align-items:center;justify-content:space-between;height:62px}
+nav .logo{font-weight:800;font-size:1.05rem}
+nav .links{display:flex;gap:26px}
+nav .links a{color:var(--muted);font-size:.92rem;font-weight:500;transition:.2s}
+nav .links a:hover{color:var(--text)}
+.nav-cta{padding:8px 16px;border-radius:8px;background:var(--grad);color:#0a0b14!important;font-weight:700!important}
+@media(max-width:720px){nav .links a:not(.nav-cta){display:none}}
+
+/* HERO */
+header{padding:96px 0 64px;text-align:center}
+.badge{display:inline-flex;align-items:center;gap:8px;padding:6px 14px;border:1px solid var(--border);
+  border-radius:999px;background:var(--card);font-size:.82rem;color:var(--muted);margin-bottom:26px}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--accent3);box-shadow:0 0 10px var(--accent3)}
+header h1{font-size:clamp(2.4rem,6vw,4rem);font-weight:800;letter-spacing:-1.5px;line-height:1.05}
+header .role{font-size:clamp(1.05rem,2.6vw,1.4rem);color:var(--muted);margin-top:16px;font-weight:500}
+header .tagline{max-width:640px;margin:22px auto 0;color:var(--faint);font-size:1.02rem}
+.cta-row{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:36px}
+.btn{padding:12px 24px;border-radius:10px;font-weight:600;font-size:.95rem;transition:.2s;border:1px solid var(--border)}
+.btn-primary{background:var(--grad);color:#0a0b14;border:none}
+.btn-primary:hover{transform:translateY(-2px);box-shadow:0 10px 30px rgba(88,166,255,.3)}
+.btn-ghost{background:var(--card);color:var(--text)}
+.btn-ghost:hover{background:var(--card-hover);border-color:var(--accent)}
+.socials{display:flex;gap:18px;justify-content:center;margin-top:32px}
+.socials a{width:42px;height:42px;display:grid;place-items:center;border:1px solid var(--border);
+  border-radius:10px;background:var(--card);color:var(--muted);transition:.2s}
+.socials a:hover{color:var(--text);border-color:var(--accent);transform:translateY(-2px)}
+.socials svg{width:20px;height:20px;fill:currentColor}
+
+/* SECTIONS */
+section{padding:60px 0}
+.sec-head{display:flex;align-items:center;gap:14px;margin-bottom:38px}
+.sec-head .num{font-family:'JetBrains Mono',monospace;color:var(--accent);font-size:.95rem}
+.sec-head h2{font-size:1.7rem;font-weight:700;letter-spacing:-.5px}
+.sec-head .line{flex:1;height:1px;background:linear-gradient(90deg,var(--border),transparent)}
+
+/* STATS STRIP */
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.stat{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:22px;text-align:center}
+.stat .n{font-size:1.9rem;font-weight:800;background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.stat .l{color:var(--muted);font-size:.82rem;margin-top:4px}
+@media(max-width:720px){.stats{grid-template-columns:repeat(2,1fr)}}
+
+/* SKILLS */
+.skill-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:18px}
+.skill-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:22px;transition:.2s}
+.skill-card:hover{border-color:var(--accent);background:var(--card-hover);transform:translateY(-3px)}
+.skill-card h3{font-size:1rem;margin-bottom:14px;display:flex;align-items:center;gap:9px}
+.skill-card h3 span{color:var(--accent)}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{font-family:'JetBrains Mono',monospace;font-size:.78rem;padding:5px 11px;border-radius:7px;
+  background:var(--bg-soft);border:1px solid var(--border);color:var(--muted)}
+
+/* TIMELINE */
+.timeline{position:relative;padding-left:30px}
+.timeline::before{content:"";position:absolute;left:6px;top:6px;bottom:6px;width:2px;background:var(--border)}
+.tl-item{position:relative;padding-bottom:34px}
+.tl-item:last-child{padding-bottom:0}
+.tl-item::before{content:"";position:absolute;left:-30px;top:6px;width:14px;height:14px;border-radius:50%;
+  background:var(--bg);border:2px solid var(--accent);box-shadow:0 0 0 4px rgba(88,166,255,.12)}
+.tl-item .when{font-family:'JetBrains Mono',monospace;font-size:.8rem;color:var(--accent3)}
+.tl-item h3{font-size:1.12rem;margin:4px 0 2px}
+.tl-item .co{color:var(--accent);font-weight:600;font-size:.95rem}
+.tl-item p{color:var(--muted);font-size:.94rem;margin-top:8px}
+
+/* PROJECTS */
+.proj-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px}
+.proj{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:24px;
+  display:flex;flex-direction:column;transition:.25s;position:relative;overflow:hidden}
+.proj::after{content:"";position:absolute;inset:0;border-radius:16px;padding:1px;
+  background:var(--grad);-webkit-mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);
+  -webkit-mask-composite:xor;mask-composite:exclude;opacity:0;transition:.25s}
+.proj:hover{transform:translateY(-4px)}
+.proj:hover::after{opacity:1}
+.proj .ph{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:8px}
+.proj h3{font-size:1.18rem}
+.proj .tag{font-size:.72rem;font-family:'JetBrains Mono',monospace;padding:3px 9px;border-radius:6px;
+  background:rgba(88,166,255,.12);color:var(--accent);white-space:nowrap}
+.proj .tag.live{background:rgba(63,208,201,.12);color:var(--accent3)}
+.proj p{color:var(--muted);font-size:.92rem;flex:1;margin-bottom:16px}
+.proj .stack{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:16px}
+.proj .stack span{font-family:'JetBrains Mono',monospace;font-size:.72rem;color:var(--faint)}
+.proj .plink{color:var(--accent);font-size:.88rem;font-weight:600;display:inline-flex;gap:6px;align-items:center}
+
+/* GH WIDGETS */
+.gh-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:start}
+.gh-grid img{width:100%;border-radius:12px;border:1px solid var(--border)}
+.gh-full{margin-top:18px}
+.gh-full img{width:100%;border-radius:12px;border:1px solid var(--border)}
+@media(max-width:720px){.gh-grid{grid-template-columns:1fr}}
+
+/* OSS + EDU */
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+@media(max-width:720px){.two-col{grid-template-columns:1fr}}
+.panel{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:24px}
+.panel h3{font-size:1.05rem;margin-bottom:16px;display:flex;gap:9px;align-items:center}
+.oss-item,.edu-item{padding:11px 0;border-bottom:1px solid var(--border)}
+.oss-item:last-child,.edu-item:last-child{border-bottom:none}
+.oss-item a{font-family:'JetBrains Mono',monospace;color:var(--accent);font-size:.9rem;font-weight:600}
+.oss-item p,.edu-item p{color:var(--muted);font-size:.85rem;margin-top:2px}
+.edu-item h4{font-size:.95rem}
+.edu-item .meta{color:var(--faint);font-size:.82rem;margin-top:2px}
+.award{display:flex;gap:10px;align-items:flex-start;padding:11px 0;border-bottom:1px solid var(--border)}
+.award:last-child{border-bottom:none}
+.award .ic{font-size:1.1rem}
+.award b{font-size:.92rem}
+.award p{color:var(--muted);font-size:.82rem}
+
+/* CONTACT */
+.contact{text-align:center;padding:80px 0 40px}
+.contact h2{font-size:clamp(1.8rem,5vw,2.6rem);font-weight:800;letter-spacing:-1px}
+.contact p{color:var(--muted);max-width:480px;margin:16px auto 30px}
+footer{border-top:1px solid var(--border);padding:26px 0;text-align:center;color:var(--faint);font-size:.85rem}
+
+/* reveal */
+.reveal{opacity:0;transform:translateY(24px);transition:.6s cubic-bezier(.2,.7,.2,1)}
+.reveal.in{opacity:1;transform:none}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="wrap">
+    <a href="#" class="logo">MFF<span class="accent">.</span></a>
+    <div class="links">
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#experience">Experience</a>
+      <a href="#projects">Projects</a>
+      <a href="#github">GitHub</a>
+      <a href="#contact" class="nav-cta">Contact</a>
+    </div>
+  </div>
+</nav>
+
+<header>
+  <div class="wrap">
+    <div class="badge"><span class="dot"></span> Available for impactful backend & infra work</div>
+    <h1>Md. Muhtasim<br/><span class="accent">Fuad Fahim</span></h1>
+    <p class="role">Software Development Engineer II</p>
+    <p class="tagline">I build and own production-grade SaaS — backend systems, cloud infrastructure, CI/CD pipelines, billing engines, and AI-powered platforms.</p>
+    <div class="cta-row">
+      <a class="btn btn-primary" href="#projects">View My Work</a>
+      <a class="btn btn-ghost" href="https://github.com/mdmuhtasimfuadfahim" target="_blank">GitHub Profile →</a>
+    </div>
+    <div class="socials">
+      <a href="https://github.com/mdmuhtasimfuadfahim" target="_blank" aria-label="GitHub"><svg viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12a12 12 0 0 0 8.21 11.4c.6.11.82-.26.82-.58v-2c-3.34.73-4.04-1.6-4.04-1.6-.55-1.4-1.34-1.77-1.34-1.77-1.1-.75.08-.73.08-.73 1.2.09 1.84 1.24 1.84 1.24 1.07 1.84 2.81 1.31 3.5 1 .1-.78.42-1.31.76-1.61-2.67-.3-5.47-1.34-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.13-.3-.54-1.52.12-3.18 0 0 1-.32 3.3 1.23a11.5 11.5 0 0 1 6 0c2.3-1.55 3.3-1.23 3.3-1.23.66 1.66.25 2.88.12 3.18.77.84 1.23 1.91 1.23 3.22 0 4.6-2.8 5.62-5.48 5.92.43.37.81 1.1.81 2.22v3.29c0 .32.21.69.82.57A12 12 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg></a>
+      <a href="https://www.linkedin.com/in/mdmuhtasimfuadfahim/" target="_blank" aria-label="LinkedIn"><svg viewBox="0 0 24 24"><path d="M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.13 1.45-2.13 2.94v5.67H9.36V9h3.41v1.56h.05c.47-.9 1.63-1.85 3.36-1.85 3.6 0 4.27 2.37 4.27 5.45v6.29zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.55V9h3.57v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.22.79 24 1.77 24h20.45c.98 0 1.78-.78 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg></a>
+      <a href="mailto:mdmuhtasim.fahim@gmail.com" aria-label="Email"><svg viewBox="0 0 24 24"><path d="M12 13.065 1.5 6.6V18a1.5 1.5 0 0 0 1.5 1.5h18a1.5 1.5 0 0 0 1.5-1.5V6.6L12 13.065zM12 10.935 22.5 4.5H1.5L12 10.935z"/></svg></a>
+      <a href="https://stackoverflow.com/users/15415861/md-muhtasim-fuad-fahim" target="_blank" aria-label="Stack Overflow"><svg viewBox="0 0 24 24"><path d="M17.36 20.2v-5.38h1.79V22H3.64v-7.18h1.79v5.38h11.93zM7.4 13.42l8.76 1.83.37-1.76-8.76-1.84-.37 1.77zm1.16-4.21 8.1 3.78.76-1.62-8.1-3.79-.76 1.63zm2.25-4 6.87 5.72 1.14-1.36-6.87-5.72-1.14 1.36zM15.66 0l-1.45 1.08 5.33 7.17 1.45-1.08L15.66 0zM7.22 18.39h8.96v-1.79H7.22v1.79z"/></svg></a>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="stats reveal">
+    <div class="stat"><div class="n">3+</div><div class="l">Years Experience</div></div>
+    <div class="stat"><div class="n">6+</div><div class="l">Production SaaS Shipped</div></div>
+    <div class="stat"><div class="n">4</div><div class="l">npm Packages Published</div></div>
+    <div class="stat"><div class="n">2</div><div class="l">Payment Gateways Mastered</div></div>
+  </div>
+</div>
+
+<section id="about">
+  <div class="wrap reveal">
+    <div class="sec-head"><span class="num">01.</span><h2>About</h2><span class="line"></span></div>
+    <p style="max-width:760px;color:var(--muted);font-size:1.05rem">
+      I'm a Software Development Engineer with <b style="color:var(--text)">3+ years</b> building and owning production-grade SaaS products. I specialize in <b style="color:var(--text)">backend engineering, server infrastructure, and CI/CD pipelines</b> — with hands-on frontend ownership when needed. I've delivered complete SaaS billing systems (Stripe, SSLCommerz), multi-tenant cloud infrastructure with zero-downtime deploys, and AI-powered content platforms. I actively use <b style="color:var(--text)">Claude Code & GitHub Copilot</b> to amplify output and code quality.
+    </p>
+  </div>
+</section>
+
+<section id="skills">
+  <div class="wrap reveal">
+    <div class="sec-head"><span class="num">02.</span><h2>Tech Stack</h2><span class="line"></span></div>
+    <div class="skill-grid">
+      <div class="skill-card">
+        <h3><span>{ }</span> Languages</h3>
+        <div class="chips"><span class="chip">Node.js</span><span class="chip">TypeScript</span><span class="chip">JavaScript</span><span class="chip">Solidity</span></div>
+      </div>
+      <div class="skill-card">
+        <h3><span>⚙</span> Backend</h3>
+        <div class="chips"><span class="chip">Express</span><span class="chip">Fastify</span><span class="chip">Hyper-Express</span><span class="chip">REST</span><span class="chip">Microservices</span><span class="chip">Socket.IO</span><span class="chip">Kafka</span><span class="chip">RabbitMQ</span><span class="chip">Redis</span></div>
+      </div>
+      <div class="skill-card">
+        <h3><span>☁</span> Infra & DevOps</h3>
+        <div class="chips"><span class="chip">Docker</span><span class="chip">GitHub Actions</span><span class="chip">Shell/SSH</span><span class="chip">Nginx</span><span class="chip">Cloudflare</span><span class="chip">Wildcard DNS</span></div>
+      </div>
+      <div class="skill-card">
+        <h3><span>🗄</span> Databases</h3>
+        <div class="chips"><span class="chip">MongoDB</span><span class="chip">DynamoDB</span><span class="chip">PostgreSQL</span></div>
+      </div>
+      <div class="skill-card">
+        <h3><span>💳</span> SaaS Billing</h3>
+        <div class="chips"><span class="chip">Stripe</span><span class="chip">SSLCommerz</span><span class="chip">PayPal</span><span class="chip">Prorated</span><span class="chip">Subscriptions</span><span class="chip">Webhooks</span></div>
+      </div>
+      <div class="skill-card">
+        <h3><span>🤖</span> AI & Frontend</h3>
+        <div class="chips"><span class="chip">OpenAI</span><span class="chip">LangChain</span><span class="chip">Hugging Face</span><span class="chip">Prompt Eng.</span><span class="chip">React</span><span class="chip">Next.js</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="experience">
+  <div class="wrap reveal">
+    <div class="sec-head"><span class="num">03.</span><h2>Experience</h2><span class="line"></span></div>
+    <div class="timeline">
+      <div class="tl-item">
+        <div class="when">Mar 2025 — Present</div>
+        <h3>Software Development Engineer II</h3>
+        <a class="co" href="https://roxnor.com/" target="_blank">Roxnor (parent: XpeedStudio)</a>
+        <p>Leading all backend & frontend engineering for the GetGenie AI platform. Managing production servers, deployment pipelines, and infrastructure. Integrating LangChain, Google Search Console & Analytics; leveraging Copilot & Claude Code.</p>
+      </div>
+      <div class="tl-item">
+        <div class="when">Jan 2023 — Feb 2025</div>
+        <h3>Software Engineer</h3>
+        <a class="co" href="https://xpeedstudio.com/" target="_blank">XpeedStudio</a>
+        <p>Built and owned the YoSuite HRM SaaS product (Node.js, TypeScript, React, Docker). Designed full CI/CD with GitHub Actions + shell automation + Cloudflare wildcard DNS, and a complete Stripe billing system with prorated subscriptions and add-ons.</p>
+      </div>
+      <div class="tl-item">
+        <div class="when">Apr 2022 — Oct 2022</div>
+        <h3>Blockchain Developer</h3>
+        <a class="co" href="https://softcent.eu/" target="_blank">Softcent</a>
+        <p>Built Solidity smart contracts (ERC20, ERC721) on BSC and Polygon. Developed Node.js + PostgreSQL backends with Stripe & PayPal webhook integrations.</p>
+      </div>
+      <div class="tl-item">
+        <div class="when">Mar 2022 — Jun 2022</div>
+        <h3>Blockchain Trainer</h3>
+        <span class="co">Canadian University of Bangladesh</span>
+        <p>Delivered Blockchain / Solidity / Ethereum training and hands-on lab sessions.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="projects">
+  <div class="wrap reveal">
+    <div class="sec-head"><span class="num">04.</span><h2>Selected Projects</h2><span class="line"></span></div>
+    <div class="proj-grid">
+      <div class="proj">
+        <div class="ph"><h3>GetGenie AI</h3><span class="tag live">Live</span></div>
+        <p>Sole engineer owning the full backend, frontend, deployment, and server infrastructure of an AI content writer & SEO research platform. Built prompt-engineering pipelines and integrated Apify, Copyscape, Keywords Everywhere & Socket.IO.</p>
+        <div class="stack"><span>Node.js</span><span>· MongoDB</span><span>· OpenAI</span><span>· LangChain</span><span>· Docker</span></div>
+        <a class="plink" href="https://getgenie.ai/" target="_blank">getgenie.ai →</a>
+      </div>
+      <div class="proj">
+        <div class="ph"><h3>YoSuite — CI/CD & Billing</h3><span class="tag live">Live</span></div>
+        <p>End-to-end CI/CD: GitHub Actions triggers shell automation for build, Docker image creation, and zero-downtime deploys. Plus a full Stripe billing system — plan tiers, per-user subscriptions, add-ons, prorated billing, and webhook lifecycle.</p>
+        <div class="stack"><span>Node.js</span><span>· TypeScript</span><span>· React</span><span>· Stripe</span><span>· Cloudflare</span></div>
+        <a class="plink" href="https://yosuite.com/" target="_blank">yosuite.com →</a>
+      </div>
+      <div class="proj">
+        <div class="ph"><h3>YoPM</h3><span class="tag">Ongoing</span></div>
+        <p>A universal SaaS admin panel: any product connects via API for complete auth + billing management. Multi-gateway billing (Stripe + SSLCommerz) with an extensible adapter and full lifecycle — plans, add-ons, and coupons.</p>
+        <div class="stack"><span>Node.js</span><span>· Next.js</span><span>· PostgreSQL</span><span>· MongoDB</span></div>
+        <a class="plink" href="https://roxnor.com/" target="_blank">by Roxnor →</a>
+      </div>
+      <div class="proj">
+        <div class="ph"><h3>Revorium</h3><span class="tag live">Live</span></div>
+        <p>Cross-border freelancer payments platform. Integrated Google Pay & Apple Pay (Revolut + Stripe), Stripe Payment Links, and PayPal with webhook-based confirmation.</p>
+        <div class="stack"><span>Node.js</span><span>· React</span><span>· Stripe</span><span>· Revolut API</span></div>
+        <a class="plink" href="https://revorium.com/" target="_blank">revorium.com →</a>
+      </div>
+      <div class="proj">
+        <div class="ph"><h3>SwipeXYZ</h3><span class="tag">Web3</span></div>
+        <p>Social media + NFT marketplace. Smart contracts on BSC & Polygon (ERC20 token rewards, ERC721 NFTs) backed by a Node.js / PostgreSQL service layer.</p>
+        <div class="stack"><span>Solidity</span><span>· Node.js</span><span>· PostgreSQL</span><span>· BSC/Polygon</span></div>
+        <span class="plink" style="color:var(--faint)">by Softcent</span>
+      </div>
+      <div class="proj">
+        <div class="ph"><h3>Open-Source npm Packages</h3><span class="tag">OSS</span></div>
+        <p>Published reusable libraries for messaging and crypto: pub/sub clients for Kafka & RabbitMQ, a libsodium-based encrypter, and more.</p>
+        <div class="stack"><span>Node.js</span><span>· Kafka</span><span>· RabbitMQ</span><span>· libsodium</span></div>
+        <a class="plink" href="https://www.npmjs.com/package/kafka-pub-sub" target="_blank">View on npm →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="github">
+  <div class="wrap reveal">
+    <div class="sec-head"><span class="num">05.</span><h2>GitHub Activity</h2><span class="line"></span></div>
+    <div class="gh-grid">
+      <img loading="lazy" src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api?username=mdmuhtasimfuadfahim&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+      <img loading="lazy" src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+    </div>
+    <div class="gh-full">
+      <img loading="lazy" src="https://streak-stats.demolab.com/?user=mdmuhtasimfuadfahim&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+    </div>
+    <div class="gh-full" style="text-align:center">
+      <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=mdmuhtasimfuadfahim&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+    </div>
+    <div class="gh-full">
+      <img loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=mdmuhtasimfuadfahim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap reveal">
+    <div class="two-col">
+      <div class="panel">
+        <h3>🏆 Achievements</h3>
+        <div class="award"><span class="ic">🥇</span><div><b>Dedicated Workforce of the Year — 2023</b><p>XpeedStudio · outstanding engineering contributions</p></div></div>
+        <div class="award"><span class="ic">🚀</span><div><b>2nd Runners-up — CTO Forum Innovation Hackathon 2021</b><p>Innovative solution design</p></div></div>
+        <div class="award"><span class="ic">⛓</span><div><b>Finalist — Blockchain Olympiad 2021</b><p>Top national blockchain project teams</p></div></div>
+        <div class="award"><span class="ic">📄</span><div><b>Publication — Springer</b><p>Secure & Transparent Supply Chain to Prevent Counterfeit Drugs</p></div></div>
+      </div>
+      <div class="panel">
+        <h3>🎓 Education</h3>
+        <div class="edu-item"><h4>MSc — Computer Science & Engineering</h4><p class="meta">Islamic University of Technology (IUT) · Ongoing</p></div>
+        <div class="edu-item"><h4>BSc — Computer Science & Engineering</h4><p class="meta">Univ. of Liberal Arts Bangladesh (ULAB) · 2021 · CGPA 3.68 / 4.00</p></div>
+        <div class="edu-item"><h4>Higher Secondary (HSC)</h4><p class="meta">Gaibandha Govt. College · 2016 · 5.00 / 5.00</p></div>
+        <div class="edu-item"><h4>Secondary (SSC)</h4><p class="meta">Gaibandha Govt. Boys High School · 2014 · 5.00 / 5.00</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="contact">
+  <div class="wrap reveal">
+    <span class="num mono" style="color:var(--accent)">06.</span>
+    <h2 style="margin-top:8px">Let's build something great.</h2>
+    <p>I'm always open to discussing backend architecture, SaaS infrastructure, or interesting engineering challenges. Reach out — I'd love to hear from you.</p>
+    <div class="cta-row">
+      <a class="btn btn-primary" href="mailto:mdmuhtasim.fahim@gmail.com">Say Hello →</a>
+      <a class="btn btn-ghost" href="https://www.linkedin.com/in/mdmuhtasimfuadfahim/" target="_blank">Connect on LinkedIn</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    Designed & built by Md. Muhtasim Fuad Fahim · <span class="mono">Node.js · TypeScript · Cloud</span><br/>
+    © <span id="yr"></span> · Deployed via GitHub Actions on every push to <span class="mono">main</span>
+  </div>
+</footer>
+
+<script>
+document.getElementById('yr').textContent = new Date().getFullYear();
+const io = new IntersectionObserver((es)=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+</script>
+</body>
+</html>

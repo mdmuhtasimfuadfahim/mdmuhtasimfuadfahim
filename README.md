@@ -1,126 +1,104 @@
-<h1 align="center">Hi, 👋 I’m Md. Muhtasim Fuad Fahim</h1>
-<h3 align="center">Software Development Engineer II | Backend & Blockchain Specialist</h3>
+<!-- PROFILE README · Md. Muhtasim Fuad Fahim -->
+
+<h1 align="center">Md. Muhtasim Fuad Fahim</h1>
+<h3 align="center">Software Development Engineer II · Backend · Cloud Infra · AI Platforms</h3>
 
 <p align="center">
-  <a href="https://bit.ly/mffo" target="_blank"><strong>🔍 Google Me</strong></a>
+  <a href="https://mdmuhtasimfuadfahim.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=githubpages&logoColor=58a6ff" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mdmuhtasimfuadfahim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mdmuhtasim.fahim@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://stackoverflow.com/users/15415861/md-muhtasim-fuad-fahim" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://dev.to/mdmuhtasimfuadfahim" target="_blank"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mdmuhtasimfuadfahim&style=for-the-badge&color=58a6ff&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About
 
-I am a **Software Development Engineer II** driven by a passion for backend development and blockchain technology. My expertise lies in solving intricate technical challenges, optimizing codebases, and crafting scalable, efficient solutions.
+Software Development Engineer with **3+ years** building and owning production-grade SaaS products. I specialize in **backend engineering, cloud infrastructure, and CI/CD pipelines**, with hands-on frontend ownership when needed. I've shipped complete SaaS billing systems (Stripe, SSLCommerz), multi-tenant cloud infra, and AI-powered platforms — and I lean on **Claude Code & GitHub Copilot** to amplify output and code quality.
 
-- 🌱 **Currently Exploring:** Google Search Console and Google Analytics for enhanced web performance insights.
-- 🧠 **Learning:** Advanced data structures, data mining techniques, and API response time optimization.
-- ✍️ **Hobbies:** Staying active at the gym, traveling to explore new places, and immersing myself in diverse cultures.
+- 🔭 **Now:** Leading backend & frontend for the **GetGenie AI** platform at [Roxnor](https://roxnor.com/)
+- 🌱 **Building:** **YoPM** — a universal SaaS admin & multi-gateway billing platform
+- 💬 **Ask me about:** Node.js architecture, SaaS billing, zero-downtime deploys, blockchain
+- 📫 **Reach me:** mdmuhtasim.fahim@gmail.com
 
 ---
 
-### 🤝 Connect With Me
+### 🛠️ Tech Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+---
+
+### 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **Software Development Engineer II** | [Roxnor](https://roxnor.com/) (parent: XpeedStudio) | Mar 2025 – Present |
+| **Software Engineer** | [XpeedStudio](https://xpeedstudio.com/) | Jan 2023 – Feb 2025 |
+| **Blockchain Developer** | [Softcent](https://softcent.eu/) | Apr 2022 – Oct 2022 |
+| **Blockchain Trainer** | Canadian University of Bangladesh | Mar 2022 – Jun 2022 |
+
+---
+
+### 🚀 Selected Projects
+
+- **[GetGenie AI](https://getgenie.ai/)** — Sole engineer owning backend, frontend, deployment & infra for an AI content + SEO platform. `Node.js · MongoDB · OpenAI · LangChain · Docker`
+- **[YoSuite](https://yosuite.com/)** — End-to-end CI/CD (GitHub Actions → Shell automation → Docker, zero-downtime) + full Stripe billing with prorated subscriptions & wildcard DNS. `Node.js · TypeScript · React · Stripe`
+- **YoPM** — Universal SaaS admin panel; any product plugs in via API for auth + multi-gateway billing (Stripe + SSLCommerz). `Node.js · Next.js · PostgreSQL` *(ongoing)*
+- **SwipeXYZ** — Social + NFT marketplace with ERC20/ERC721 smart contracts on BSC & Polygon. `Solidity · Node.js · PostgreSQL`
+
+---
+
+### 📦 Open Source
+
+[`kafka-pub-sub`](https://www.npmjs.com/package/kafka-pub-sub) · [`rmq-pub-sub`](https://www.npmjs.com/package/rmq-pub-sub) · [`sodium-crypter`](https://www.npmjs.com/package/sodium-crypter) · [`lovemate`](https://www.npmjs.com/package/lovemate)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://twitter.com/mdmuhtasimfahim" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/mdmuhtasimfuadfahim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/mdmuhtasimfuadfahim/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/mdmuhtasimfuadfahim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.com/invite/3q8sZK8EBr" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://stackoverflow.com/users/15415861/md-muhtasim-fuad-fahim" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://dev.to/mdmuhtasimfuadfahim" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to" /></a>
-  <a href="https://medium.com/@mdmuhtasimfuadfahim" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <img height="165" src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api?username=mdmuhtasimfuadfahim&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mdmuhtasimfuadfahim&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmuhtasimfuadfahim&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmuhtasimfuadfahim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 🔨 Work Experience
-
-#### Current Role:
-
-- **Software Development Engineer II** at [Roxnor](https://roxnor.com/)
-  - Projects: [GetGenie](https://getgenie.ai/), [YoSuite](https://yosuite.com/)
-
-#### Previous Roles:
-
-- **Software Engineer** at [XpeedStudio](https://xpeedstudio.com/)
-- **Blockchain Developer** at [Softcent](https://softcent.eu/), [Revorium](https://www.revorium.com/)
-- **Blockchain Trainer** at [Canadian University of Bangladesh](http://www.cub.edu.bd/cub/index.php)
-
----
-
-### 🛠️ Technical Skills
-
-#### **Languages:**
-
-![Node.js](https://img.shields.io/badge/Node.JS-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
-#### **Frontend:**
-
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### **Backend & Platforms:**
-
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Hyper Express](https://img.shields.io/badge/Hyper_Express-%2343853D.svg?style=for-the-badge&logo=hyper-express&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-#### **Databases:**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-%23009639.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-#### **Testing & Tools:**
-
-![JMeter](https://img.shields.io/badge/JMeter-%23D24939.svg?style=for-the-badge&logo=apachejmeter&logoColor=white)
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmuhtasimfuadfahim&theme=onestar&row=1&column=11&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api?username=mdmuhtasimfuadfahim&show_icons=true&theme=radical" alt="Md. Muhtasim Fuad Fahim's GitHub stats" />
-  <img src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/top-langs/?username=mdmuhtasimfuadfahim&layout=compact&theme=radical" alt="Top Languages" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=mdmuhtasimfuadfahim&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
-</p>
-
----
-
-### 📦 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/mdmuhtasimfuadfahim/kafka-pub-sub" target="_blank">
-    <img src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=kafka-pub-sub" alt="Kafka Pub Sub" />
-  </a>
-  <a href="https://github.com/mdmuhtasimfuadfahim/rmq-pub-sub" target="_blank">
-    <img src="https://github-readme-stats-dde2thve2-muhtasimfahim.vercel.app/api/pin/?username=mdmuhtasimfuadfahim&theme=dracula&repo=rmq-pub-sub" alt="RMQ Pub Sub" />
-  </a>
-</p>
-
----
-
-### 🌱 Let's Collaborate!
-
-- Interested in blockchain, backend systems, or distributed architectures?  
-  💬 Feel free to reach out to me at [muhtasimfuadfahim@proton.me](mailto:muhtasimfuadfahim@proton.me).
-
-<h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
-
----
-
-### 📜 License
-
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+<h4 align="center">✨ Thanks for visiting — let's build something great together.</h4>
