@@ -22,7 +22,7 @@ Software Development Engineer with **3+ years** building and owning production-g
 
 - 💼 **Open to:** Software Engineer positions
 - 🔭 **Now:** Leading backend & frontend for the **GetGenie AI** platform at [Roxnor](https://roxnor.com/)
-- 🏗️ **Designed:** Full staging + live architecture for **YoSuite** & **YoPM** — Caddy, Dozzle over SSH, Docker, GitHub Actions, tag-based auto-release
+- 🏗️ **Building:** The **YoSuite** ecosystem (YoHRM · YoPM · YoCRM) + **YoCore** superadmin — architecture, design & full implementation from scratch
 - 💬 **Ask me about:** Node.js architecture, SaaS billing, CI/CD & tag-based releases, blockchain
 - 📫 **Reach me:** mdmuhtasim.fahim@gmail.com
 
@@ -72,10 +72,11 @@ Software Development Engineer with **3+ years** building and owning production-g
 
 ### 🚀 Selected Projects
 
-- **[YoSuite](https://yosuite.com/)** — Designed the **full staging + live deployment architecture**: Caddy (auto-HTTPS reverse proxy), Dozzle container-log monitoring over SSH, SSH-based env management, Docker, and GitHub Actions that **auto-release on version tags** with zero-downtime. Plus a complete Stripe billing system — plan tiers, prorated subscriptions, add-ons & webhook lifecycle. `Node.js · TypeScript · React · Stripe · Caddy · Docker`
-- **YoPM** — Universal SaaS admin & billing platform; any product plugs in via API for auth + multi-gateway billing (Stripe + SSLCommerz). Runs on the **same self-designed staging + live architecture** (Caddy · Dozzle · Docker · GitHub Actions · tag-based auto-release). `Node.js · Next.js · PostgreSQL` *(ongoing)*
-- **[GetGenie AI](https://getgenie.ai/)** — Sole engineer owning backend, frontend & deployment for an AI content + SEO platform. `Node.js · MongoDB · OpenAI · LangChain · Docker`
-- **SwipeXYZ** — Social + NFT marketplace with ERC20/ERC721 smart contracts on BSC & Polygon. `Solidity · Node.js · PostgreSQL`
+- **[YoSuite](https://yosuite.com)** — A multi-product B2B SaaS ecosystem and the parent brand for a suite of business tools: **YoHRM** (HR management), **YoPM** (project management), **YoCRM** (coming soon). Supports multi-tenant workspace isolation with per-workspace subdomain routing and custom domain mapping. Self-designed zero-downtime deployment pipeline: Caddy (auto-HTTPS reverse proxy), Dozzle log monitoring over SSH, Docker, and GitHub Actions with tag-based auto-release. `Node.js · TypeScript · React · Next.js · Caddy · Docker`
+- **[YoCore](https://yocore.yosuite.net/)** — Centralized infrastructure layer for the YoSuite ecosystem. Every product connects via a product-agnostic SDK to get **cross-product auth, session & token lifecycle management, and multi-gateway billing** (Stripe + SSLCommerz) out of the box. Architecture, billing adapter pattern, SDK design, and full implementation — built from scratch. `Node.js · PostgreSQL · Stripe · SSLCommerz`
+- **[GetGenie AI](https://getgenie.ai/)** — Sole engineer with full ownership of backend, frontend, and deployment for an AI content writing and SEO research platform. Integrated OpenAI & Hugging Face (LLM pipelines via LangChain), Google Search Console & GA4 (SEO insights + analytics), Google Ads, Apify (web scraping), and Copyscape (plagiarism detection). Designed and owned the complete deployment infrastructure. `Node.js · MongoDB · OpenAI · LangChain · Hugging Face · GSC · GA4 · Apify · Docker`
+- **[Revorium](https://revorium.com/)** — Cross-border payment platform engineered for freelancers and independent professionals. Integrated Google Pay & Apple Pay (Revolut + Stripe), Stripe Payment Links, and PayPal — backed by a unified webhook event pipeline for multi-currency transactions, real-time confirmation, and automated payout flows. `Node.js · React · Stripe · Revolut API · PayPal`
+- **SwipeXYZ** — Social media + NFT marketplace with ERC20/ERC721 smart contracts on BSC & Polygon. `Solidity · Node.js · PostgreSQL`
 
 ---
 
